@@ -1,0 +1,14 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "https://https://localcoding.us",
+  "viewportHeight": 1000,
+  "defaultCommandTimeout": 6000,
+  "env": {
+    "qa": "",
+    "dev": ""
+  },
+  "projectId": "",
+  "retries": {
+    "runMode": 2
+  }
+}
